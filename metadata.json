@@ -1,0 +1,6 @@
+{
+  "name": "DocuFlow AI - Smart Invoice & ERP Platform",
+  "description": "Plateforme SaaS moderne de gestion automatisée et double validation des factures fournisseurs, matching commandes et réceptions, dossiers d'import et connecteur ERP Priority.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
